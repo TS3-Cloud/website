@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c050436c-82e5-4aa0-aac1-e9555496fce7" name="Default" comment="" />
+    <list default="true" id="c050436c-82e5-4aa0-aac1-e9555496fce7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,19 +13,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="218" column="92" selection-start-line="218" selection-start-column="92" selection-end-line="218" selection-end-column="92" />
+            <state relative-caret-position="408">
+              <caret line="97" column="18" lean-forward="true" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="918">
               <caret line="93" column="71" selection-start-line="93" selection-start-column="71" selection-end-line="93" selection-end-column="71" />
             </state>
           </provider>
@@ -41,8 +43,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="1598" column="30" lean-forward="true" selection-start-line="1598" selection-start-column="30" selection-end-line="1598" selection-end-column="30" />
+            <state relative-caret-position="27166">
+              <caret line="1598" column="30" selection-start-line="1598" selection-start-column="30" selection-end-line="1598" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -50,7 +52,7 @@
       <file leaf-file-name="musikbot-bestellen.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/musikbot-bestellen.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="2125">
               <caret line="125" column="22" selection-start-line="125" selection-start-column="22" selection-end-line="125" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#b#0;n#div#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -71,7 +73,7 @@
       <file leaf-file-name="partner.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="859">
+            <state relative-caret-position="3281">
               <caret line="193" column="43" selection-start-line="193" selection-start-column="43" selection-end-line="193" selection-end-column="43" />
             </state>
           </provider>
@@ -125,6 +127,9 @@
       <replace>p</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -145,7 +150,7 @@
         <option value="$PROJECT_DIR$/order_canceled.html" />
         <option value="$PROJECT_DIR$/forgot_password.html" />
         <option value="$PROJECT_DIR$/css/test.css" />
-        <option value="$USER_HOME$/Desktop/ts3cloud/Elias - Mail/eliasb_mail.html" />
+        <option value="$PROJECT_DIR$/../Elias - Mail/eliasb_mail.html" />
         <option value="$PROJECT_DIR$/mail/order_canceled.html" />
         <option value="$PROJECT_DIR$/mail/forgot_password.html" />
         <option value="$PROJECT_DIR$/mail/product_renew.html" />
@@ -166,8 +171,8 @@
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/musikbot-bestellen.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -181,8 +186,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="128" />
-    <option name="y" value="451" />
+    <option name="x" value="-1288" />
+    <option name="y" value="147" />
     <option name="width" value="1296" />
     <option name="height" value="1000" />
   </component>
@@ -305,22 +310,23 @@
       <workItem from="1537722356474" duration="1021000" />
       <workItem from="1537902640670" duration="7000" />
       <workItem from="1538157969520" duration="1312000" />
+      <workItem from="1538942326999" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77463000" />
+    <option name="totallyTimeSpent" value="77486000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1288" y="147" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08645833" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0859375" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" />
@@ -410,7 +416,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/forgot_password.html" />
     <entry file="file://$PROJECT_DIR$/order_canceled.html" />
-    <entry file="file://$USER_HOME$/Desktop/ts3cloud/Elias - Mail/eliasb_mail.html">
+    <entry file="file://$PROJECT_DIR$/../Elias - Mail/eliasb_mail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
@@ -487,7 +493,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/musikbot-bestellen.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="2125">
           <caret line="125" column="22" selection-start-line="125" selection-start-column="22" selection-end-line="125" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#b#0;n#div#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -497,15 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="1598" column="30" lean-forward="true" selection-start-line="1598" selection-start-column="30" selection-end-line="1598" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="218" column="92" selection-start-line="218" selection-start-column="92" selection-end-line="218" selection-end-column="92" />
+        <state relative-caret-position="27166">
+          <caret line="1598" column="30" selection-start-line="1598" selection-start-column="30" selection-end-line="1598" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -518,15 +517,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/partner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="859">
+        <state relative-caret-position="3281">
           <caret line="193" column="43" selection-start-line="193" selection-start-column="43" selection-end-line="193" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="918">
           <caret line="93" column="71" selection-start-line="93" selection-start-column="71" selection-end-line="93" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="97" column="18" lean-forward="true" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
         </state>
       </provider>
     </entry>
